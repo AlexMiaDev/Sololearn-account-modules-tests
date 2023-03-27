@@ -1,1 +1,2 @@
-# Sololearn.com-QA-tests Profil: "https://www.sololearn.com/profile/"yourID""
+# Sololearn.com QA profile tests
+https://www.sololearn.com/profile/  Your user ID
