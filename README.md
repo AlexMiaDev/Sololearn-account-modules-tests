@@ -1,1 +1,1 @@
-# Sololearn-QA-tests
+# Sololearn.com-QA-tests
