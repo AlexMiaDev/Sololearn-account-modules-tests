@@ -1,2 +1,2 @@
 # Sololearn.com QA profile tests
-https://www.sololearn.com/profile/  Your user ID
+https://www.sololearn.com testing profile function and courses
